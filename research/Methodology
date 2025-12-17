@@ -1,0 +1,12 @@
+## Methodology
+
+A within-subjects A/B testing design was used.
+
+Participants experienced both UI conditions under identical gameplay scenarios, with order randomised to reduce learning effects.
+
+Data collection methods:
+- Objective gameplay metrics (lap time, crashes, boost usage)
+- Subjective feedback via surveys
+- NASA-TLX workload assessment
+
+This mixed-methods approach enabled triangulation between performance data and perceived experience.
