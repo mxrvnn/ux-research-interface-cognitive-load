@@ -21,3 +21,5 @@ All participant data has been anonymised. Raw data has been excluded to ensure e
 
 ## Outcome
 The project produced clear, evidence-based insights into how interface design choices affect user experience and cognitive load, with practical recommendations applicable to product and interaction design contexts.
+
+Link to the case study: https://marvinadu.framer.website/diegetic-racing
